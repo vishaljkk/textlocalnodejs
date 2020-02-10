@@ -1,0 +1,14 @@
+{
+  "name": "twowaysms",
+  "version": "1.0.0",
+  "description": "this is the nexmo demonstration on the local to use nexmo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
