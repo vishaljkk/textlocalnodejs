@@ -1,6 +1,6 @@
 var request = require('request');
 const TEXT_LOCAL_HOST = 'https://api.textlocal.in/send/';
-const TEXT_LOCAL_API_KEY ='BL3yo+0E1oY-vgCcgLlfniqpWdzz42JDXnikzTKx3V';
+const TEXT_LOCAL_API_KEY ='enter_api_key_here';
 //const TEXT_LOCAL_USERNAME = 'vishal.kk@somaiya.edu';
 const TEXT_LOCAL_SENDER =  'txtlcl';//BASIC SENDER ID (REPLACE IT WITH YOUR SENDER ID LATER)
 var MSG_TEMPLATE = "TEXTLOCAL"
