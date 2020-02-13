@@ -28,4 +28,3 @@ function sendTextLocalSMS(mobileNumber, MSG_TEMPLATE) {
 
 
 var k=sendTextLocalSMS('9137779691',MSG_TEMPLATE);
-//BL3yo+0E1oY-vgCcgLlfniqpWdzz42JDXnikzTKx3V	
